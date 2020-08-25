@@ -1,0 +1,3 @@
+php artisan schedule:run
+
+# runs truncate command for mysql table 'messages'
